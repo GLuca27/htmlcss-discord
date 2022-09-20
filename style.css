@@ -40,23 +40,10 @@ header{
     border: none;
 }
 
-main1{
-    display: flex;
-    justify-content: center;
-    height: 400px;
-}
-
 h2{
     font-size: 48px;
 }
 
-.img1{
-    height: 300px;
-   width: 450px;
-}
 
-.descrizione{
-    height: 300px;
-    width: 250px;
-}
+
 
