@@ -9,7 +9,6 @@ header{
     background-image: url(img/jumbo.png);
     background-size: cover;
     height: 400px;
-    width: 1370px;
 }
 
 .contenitore{
@@ -20,9 +19,8 @@ header{
 .box1{
     background-color: #255ee9;
     height: 80px;
-    max-width: 1000px;
-    display: inline-flex;
-    justify-content: space-between;
+    display: flex;
+    justify-content: space-around;
     align-items: center;
 }
 
@@ -32,6 +30,7 @@ header{
 
 .sezioni{
     color: white;
+    margin: 40px;
 }
 
 .login{
@@ -40,3 +39,24 @@ header{
     height: 40px;
     border: none;
 }
+
+main1{
+    display: flex;
+    justify-content: center;
+    height: 400px;
+}
+
+h2{
+    font-size: 48px;
+}
+
+.img1{
+    height: 300px;
+   width: 450px;
+}
+
+.descrizione{
+    height: 300px;
+    width: 250px;
+}
+
